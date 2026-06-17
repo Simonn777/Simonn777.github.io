@@ -7,7 +7,8 @@
     "build": "next build",
     "export:github": "NEXT_PUBLIC_STATIC_EXPORT=true next build && node scripts/create-static-root.mjs",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "submit:baidu": "node scripts/submit-baidu-urls.mjs"
   },
   "dependencies": {
     "@base-ui/react": "^1.5.0",

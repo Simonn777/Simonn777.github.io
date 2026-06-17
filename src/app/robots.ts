@@ -7,10 +7,16 @@ const siteUrl =
 
 export default function robots(): MetadataRoute.Robots {
   return {
-    rules: {
-      userAgent: "*",
-      allow: "/",
-    },
+    rules: [
+      {
+        userAgent: "Baiduspider",
+        allow: "/",
+      },
+      {
+        userAgent: "*",
+        allow: "/",
+      },
+    ],
     sitemap: `${siteUrl}/sitemap.xml`,
   };
 }
