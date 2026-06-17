@@ -38,20 +38,20 @@ export function ProductsSection({ products }: ProductsSectionProps) {
             {loopedProducts.map((product, index) => (
               <Link
                 aria-hidden={index >= products.items.length || undefined}
-                className="motion-card group flex min-w-[260px] flex-col border bg-white md:min-w-[300px] xl:min-w-[310px]"
+                className="motion-card group flex w-[260px] flex-none flex-col border bg-white md:w-[290px] xl:w-[300px]"
                 data-product-card
                 href="/products"
                 key={`${product.name}-${index}`}
                 tabIndex={index >= products.items.length ? -1 : undefined}
               >
-                <div className="relative aspect-[4/5] bg-white">
+                <div className="relative aspect-[4/3] bg-white">
                   <Image
                     alt={product.name}
-                    className="motion-image h-full w-full object-contain p-6"
-                    height={920}
+                    className="motion-image object-contain p-5"
+                    fill
                     loading={index < 4 ? "eager" : "lazy"}
+                    sizes="(min-width: 1280px) 300px, (min-width: 768px) 290px, 260px"
                     src={product.image}
-                    width={720}
                   />
                 </div>
                 <div className="border-t p-5">
