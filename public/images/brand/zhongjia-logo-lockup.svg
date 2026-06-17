@@ -1,0 +1,15 @@
+<svg width="980" height="280" viewBox="0 0 980 280" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">中钾华强标志组合</title>
+  <desc id="desc">中钾图标与中钾华强中文名称的横向组合。</desc>
+  <rect x="24" y="24" width="232" height="232" rx="40" fill="#0A5C78"/>
+  <path d="M56 190C87 175 119 172 150 183C178 193 205 190 236 171V205C205 223 174 226 142 215C111 204 84 208 56 224V190Z" fill="#16A66A"/>
+  <path d="M56 202C88 184 118 181 148 191C177 201 206 195 236 176" stroke="#D9F7F0" stroke-width="8" stroke-linecap="round"/>
+  <path d="M82 92H198V146H82V92Z" stroke="white" stroke-width="18" stroke-linejoin="round"/>
+  <path d="M140 60V184" stroke="white" stroke-width="20" stroke-linecap="round"/>
+  <path d="M158 116L204 72H178L146 104L158 116Z" fill="#78C8E6"/>
+  <path d="M164 130L210 176H182L146 142L164 130Z" fill="#78C8E6"/>
+  <text x="306" y="123" fill="#102025" font-family="PingFang SC, Noto Sans SC, Microsoft YaHei, sans-serif" font-size="56" font-weight="700" letter-spacing="0">中钾华强</text>
+  <text x="308" y="171" fill="#4F6268" font-family="PingFang SC, Noto Sans SC, Microsoft YaHei, sans-serif" font-size="24" font-weight="500" letter-spacing="0.5">中钾华强生物科技（重庆）有限公司</text>
+  <rect x="308" y="198" width="308" height="6" rx="3" fill="#1682A6"/>
+  <rect x="630" y="198" width="96" height="6" rx="3" fill="#16A66A"/>
+</svg>

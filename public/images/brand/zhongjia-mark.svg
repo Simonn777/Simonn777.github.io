@@ -1,0 +1,10 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">中钾透明底标志</title>
+  <desc id="desc">透明底中钾品牌标志，适合白色或浅色背景。</desc>
+  <path d="M70 366C140 331 207 324 270 346C328 366 381 361 442 321V391C380 426 316 433 251 411C188 390 128 397 70 431V366Z" fill="#16A66A"/>
+  <path d="M72 390C139 351 200 344 261 365C320 385 380 374 440 334" stroke="#A9E7DD" stroke-width="14" stroke-linecap="round"/>
+  <path d="M156 158H356V274H156V158Z" stroke="#0A5C78" stroke-width="38" stroke-linejoin="round"/>
+  <path d="M256 96V346" stroke="#0A5C78" stroke-width="42" stroke-linecap="round"/>
+  <path d="M294 210L389 118H336L268 185L294 210Z" fill="#1682A6"/>
+  <path d="M304 239L400 333H344L268 263L304 239Z" fill="#1682A6"/>
+</svg>

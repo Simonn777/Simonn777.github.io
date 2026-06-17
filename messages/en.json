@@ -1,0 +1,594 @@
+{
+  "Metadata": {
+    "title": "Zhongjia Huaqiang Biotech (Chongqing) Co., Ltd.",
+    "description": "A concise corporate website for Zhongjia Huaqiang in Qijiang, Chongqing, covering green chemicals, fertilizer products, industrial base information and cooperation."
+  },
+  "Site": {
+    "brand": "Zhongjia Huaqiang",
+    "company": "Zhongjia Huaqiang Biotech (Chongqing) Co., Ltd.",
+    "nav": {
+      "about": "About",
+      "products": "Products",
+      "industry": "Industry & Base",
+      "quality": "Technology & Quality",
+      "news": "News & Resources",
+      "contact": "Contact"
+    },
+    "language": "中文",
+    "cta": "Contact",
+    "footer": {
+      "addressLabel": "Address",
+      "registryLabel": "Registry",
+      "contactLabel": "Cooperation",
+      "location": "Panshi Village, Fuhuan Town, Qijiang District, Chongqing",
+      "credit": "Unified social credit code: 91500110MAACCGB133",
+      "contact": "+86 19923490719",
+      "contactHref": "tel:+8619923490719",
+      "note": "Zhongjia Huaqiang Biotech (Chongqing) Co., Ltd. · Green Chemicals and Fertilizer Products"
+    }
+  },
+  "HomePage": {
+    "hero": {
+      "title": "Zhongjia Huaqiang Biotech (Chongqing) Co., Ltd.",
+      "lead": "Based in Qijiang, Chongqing, the company develops an integrated industrial platform covering calcium ammonium nitrate, ammonium phosphate, calcium superphosphate, calcium sulfate materials and potassium fluorosilicate.",
+      "primaryAction": "View Products",
+      "secondaryAction": "Qijiang Base",
+      "facts": [
+        "Qijiang, Chongqing",
+        "Green Chemicals",
+        "Fertilizer Products",
+        "Cooperation"
+      ],
+      "visual": {
+        "src": "/images/concepts/qijiang-base-planning-clean.webp",
+        "alt": "Qijiang mountain landscape and chemical industry base",
+        "caption": "Qijiang location and base image"
+      },
+      "panelRegion": "Qijiang, Chongqing",
+      "panelTitle": "Industrial base information",
+      "panelItems": [
+        "Company profile",
+        "Product categories",
+        "Base and industry",
+        "Cooperation contact"
+      ]
+    },
+    "capabilities": {
+      "title": "Product Matrix and Industrial Capabilities",
+      "lead": "Product, technology, quality and service capabilities are organized as a concise horizontal information strip.",
+      "rows": [
+        {
+          "label": "Products",
+          "items": [
+            "Calcium Ammonium Nitrate CAN",
+            "Monoammonium Phosphate MAP",
+            "Diammonium Phosphate DAP",
+            "Granular Calcium Superphosphate",
+            "Calcium Sulfate Whisker",
+            "Nano Calcium Sulfate",
+            "Potassium Fluorosilicate K₂SiF₆"
+          ]
+        },
+        {
+          "label": "Technology and Quality",
+          "items": [
+            "Nitric-acid-route phosphorus chemicals",
+            "Humic-acid compound fertilizers",
+            "Calcium-based materials",
+            "Fluorosilicate resource utilization",
+            "Raw-material inspection",
+            "Release testing",
+            "Safety and environmental management"
+          ]
+        }
+      ]
+    },
+    "project": {
+      "title": "Rural Revitalization and Green Circular Economy Project",
+      "lead": "The project connects Qijiang's circular-economy industrial base, nitric-acid-route phosphorus chemicals, resource utilization and agricultural services.",
+      "note": "The page presents Qijiang location, chemical industry foundation and agricultural application scenarios.",
+      "metrics": [
+        {
+          "value": "0",
+          "label": "phosphogypsum solid-waste target"
+        },
+        {
+          "value": "≥98%",
+          "label": "resource utilization reference"
+        },
+        {
+          "value": "≥95%",
+          "label": "wastewater recycling reference"
+        }
+      ],
+      "images": [
+        {
+          "src": "/images/home/industrial-plant-aerial.webp",
+          "alt": "Reference aerial image of a chemical industrial base and river corridor",
+          "caption": "Industrial base and river-logistics setting"
+        },
+        {
+          "src": "/images/home/chemical-plant.webp",
+          "alt": "Chemical production base reference image",
+          "caption": "Chemical industry base reference"
+        },
+        {
+          "src": "/images/home/farm-base.webp",
+          "alt": "Agricultural planting base reference image",
+          "caption": "Agricultural base and rural linkage"
+        }
+      ]
+    },
+    "overview": {
+      "kicker": "Company Overview",
+      "title": "A clear corporate site built on Qijiang's industrial foundation",
+      "lead": "The company focuses on corporate information, Qijiang base conditions, cooperation channels, technology accumulation and the seven products displayed in the product center.",
+      "moreLabel": "Learn More",
+      "locationTitle": "Qijiang, Chongqing",
+      "locationLabel": "Address: Panshi Village, Fuhuan Town, Qijiang District, Chongqing",
+      "stats": [
+        {
+          "value": "2022",
+          "label": "Established"
+        },
+        {
+          "value": "Qijiang",
+          "label": "Project location"
+        },
+        {
+          "value": "7 products",
+          "label": "Main products"
+        }
+      ],
+      "points": [
+        {
+          "title": "Local industrial base",
+          "description": "The company builds on Qijiang's chemical industry conditions, production support and project carrying capacity."
+        },
+        {
+          "title": "Clear product expression",
+          "description": "The product center shows calcium ammonium nitrate, monoammonium phosphate, diammonium phosphate, granular calcium superphosphate, calcium sulfate whisker, nano calcium sulfate and potassium fluorosilicate."
+        },
+        {
+          "title": "Cooperation ready",
+          "description": "Government bodies, customers, distributors and supply-chain partners can quickly find formal information."
+        }
+      ]
+    },
+    "sectors": {
+      "title": "Information Sections",
+      "lead": "These entries match the top navigation, so visitors can move through company information, products, base, technology, resources and contact details in one consistent structure.",
+      "items": [
+        {
+          "title": "About",
+          "description": "Company positioning, basic information, project direction, service audience and public communication principles."
+        },
+        {
+          "title": "Products",
+          "description": "Seven product categories, package images, product indicators and application directions."
+        },
+        {
+          "title": "Industry & Base",
+          "description": "Qijiang location, industrial park context, base support conditions and logistics links."
+        },
+        {
+          "title": "Technology & Quality",
+          "description": "Technology route, quality system, safety and environmental management, and product-documentation basis."
+        },
+        {
+          "title": "News & Resources",
+          "description": "Company updates, product resources, test reports, cooperation materials and download entries."
+        },
+        {
+          "title": "Contact",
+          "description": "Company address, registration information, cooperation phone number and contact entry."
+        }
+      ]
+    },
+    "visualScenes": {
+      "title": "Industrial Application Scenes",
+      "lead": "Production, agricultural application and lab-analysis scenes connect manufacturing, agronomic services and quality control.",
+      "points": [
+        "Production units and utilities",
+        "Agricultural application and distribution",
+        "Testing analysis and quality control"
+      ],
+      "items": [
+        {
+          "src": "/images/external/industrial-process.webp",
+          "alt": "Chemical production unit reference image",
+          "title": "Production Reference",
+          "description": "Adds visual context around chemical units, towers, pipe racks and industrial production facilities."
+        },
+        {
+          "src": "/images/external/agriculture-application.webp",
+          "alt": "Agricultural fertilization reference image",
+          "position": "center bottom",
+          "title": "Agricultural Application",
+          "description": "Connects fertilizer products with agricultural input, distribution and crop-application scenarios."
+        },
+        {
+          "src": "/images/external/lab-quality.webp",
+          "alt": "Laboratory testing reference image",
+          "title": "Lab and Quality",
+          "description": "Supports product indicators, test reports, quality traceability and release inspection content."
+        }
+      ]
+    },
+    "products": {
+      "kicker": "Products and Services",
+      "title": "Product Center",
+      "lead": "The product center shows seven products: calcium ammonium nitrate, monoammonium phosphate, diammonium phosphate, granular calcium superphosphate, calcium sulfate whisker, nano calcium sulfate and potassium fluorosilicate.",
+      "note": "Product indicators are presented around package labeling, standards, testing management and application scenarios.",
+      "linkLabel": "Open Product Center",
+      "items": [
+        {
+          "name": "Calcium Ammonium Nitrate",
+          "category": "Fertilizer Product",
+          "description": "Agricultural calcium ammonium nitrate for soluble-fertilizer systems, facility agriculture and acidic soil improvement scenarios.",
+          "image": "/images/products/real/calcium-ammonium-nitrate-can.webp",
+          "specs": [
+            "Total N ≥15.0%",
+            "Water-soluble Ca ≥18.0%",
+            "Net weight 40.0kg"
+          ]
+        },
+        {
+          "name": "Monoammonium Phosphate",
+          "category": "Industrial Phosphate",
+          "description": "Industrial-grade monoammonium phosphate MAP for industrial, compound-fertilizer and related phosphate-chemical applications.",
+          "image": "/images/products/real/monoammonium-phosphate-map.webp",
+          "specs": [
+            "Total nutrients ≥73.0%",
+            "N-P₂O₅-K₂O 12-61-0",
+            "Net weight 25.0kg"
+          ]
+        },
+        {
+          "name": "Diammonium Phosphate",
+          "category": "Phosphate Fertilizer",
+          "description": "Diammonium phosphate DAP provides an efficient phosphate source for grain crops, economic crops and regional agricultural input markets.",
+          "image": "/images/products/real/diammonium-phosphate-dap.webp",
+          "specs": [
+            "Total nutrients ≥61.0%",
+            "N-P₂O₅-K₂O 17-44-0",
+            "Net weight 50kg"
+          ]
+        },
+        {
+          "name": "Granular Calcium Superphosphate",
+          "category": "Basic Phosphate Fertilizer",
+          "description": "Granular calcium superphosphate supports basic fertilization and regional agricultural input demand.",
+          "image": "/images/products/real/granular-calcium-superphosphate.webp",
+          "specs": [
+            "Available P ≥12.0%",
+            "Water-soluble P ≥7.0%",
+            "Net weight 50.0kg"
+          ]
+        },
+        {
+          "name": "Calcium Sulfate Whisker",
+          "category": "Calcium-based Material",
+          "description": "Calcium sulfate whisker is a calcium-based material product for plastics, paper, building materials and related applications.",
+          "image": "/images/products/real/calcium-sulfate-whisker.webp",
+          "specs": [
+            "Purity ≥98%",
+            "Whiteness ≥98%",
+            "Aspect ratio ≥30"
+          ]
+        },
+        {
+          "name": "Nano Calcium Sulfate",
+          "category": "Calcium-based Material",
+          "description": "Nano calcium sulfate supports fine-material applications such as plastics, fillers and modified materials.",
+          "image": "/images/products/real/nano-calcium-sulfate.webp",
+          "specs": [
+            "Particle size <100nm",
+            "Net weight 25.0kg",
+            "Calcium-based material"
+          ]
+        },
+        {
+          "name": "Potassium Fluorosilicate",
+          "category": "Fluorosilicate Product",
+          "description": "Potassium fluorosilicate K₂SiF₆ is a fluorine-resource utilization product for related industrial and agricultural supporting scenarios.",
+          "image": "/images/products/seven/potassium-fluorosilicate-pack.webp",
+          "specs": [
+            "Content ≥98%",
+            "Standard HG/T4693-2014",
+            "Net weight 25.0kg"
+          ]
+        }
+      ]
+    },
+    "base": {
+      "title": "Industry and Base",
+      "lead": "The base connects Qijiang's industrial support with fertilizers, industrial phosphate, calcium-based materials and potassium fluorosilicate.",
+      "regionTitle": "Qijiang, Chongqing",
+      "regionLabel": "Location",
+      "locations": [
+        "Chongqing",
+        "Qijiang",
+        "Fuhuan Town",
+        "Panshi Village"
+      ],
+      "linkLabel": "View Industry and Base",
+      "points": [
+        "Fertilizer products include calcium ammonium nitrate, diammonium phosphate and granular calcium superphosphate.",
+        "Industrial phosphate product includes monoammonium phosphate.",
+        "Calcium-based materials include calcium sulfate whisker and nano calcium sulfate.",
+        "Potassium fluorosilicate serves related industrial and agricultural supporting applications."
+      ]
+    },
+    "quality": {
+      "title": "Technology and Quality",
+      "lead": "Technology and quality cover product categories, process routes, intellectual property, quality control, safety and environmental management.",
+      "items": [
+        {
+          "title": "R&D and patents",
+          "description": "The company extends technology accumulation from Xie Guangqiang-related enterprises in compound fertilizer, nitro-humic-acid fertilizer, production equipment and process improvement."
+        },
+        {
+          "title": "Quality inspection",
+          "description": "Quality management covers raw-material inspection, process parameters, product packaging, release testing and customer traceability."
+        },
+        {
+          "title": "Safety and environment",
+          "description": "Safety and environmental management covers chemical units, fire prevention, explosion protection, wastewater and exhaust treatment, solid-waste utilization and emergency response."
+        }
+      ]
+    },
+    "servicePath": {
+      "title": "Cooperation Path",
+      "lead": "Three common visitor needs are organized as clear action entries: product information, Qijiang base context and direct cooperation contact.",
+      "items": [
+        {
+          "title": "Seven Product Resources",
+          "description": "Quickly review calcium ammonium nitrate, monoammonium phosphate, diammonium phosphate, granular calcium superphosphate, calcium sulfate whisker, nano calcium sulfate and potassium fluorosilicate.",
+          "href": "/products",
+          "label": "View Products",
+          "gradientFrom": "#116b86",
+          "gradientTo": "#2f8f63"
+        },
+        {
+          "title": "Qijiang Base Support",
+          "description": "Understand the Qijiang location, Panshi Village address, industrial-park support, public utilities and logistics conditions.",
+          "href": "/industry",
+          "label": "View Base",
+          "gradientFrom": "#06283d",
+          "gradientTo": "#116b86"
+        },
+        {
+          "title": "Cooperation Contact",
+          "description": "For customers, distributors, engineering partners and supply-chain partners, the site provides address, registration information and cooperation phone contact.",
+          "href": "/contact",
+          "label": "Contact",
+          "gradientFrom": "#0a6b4f",
+          "gradientTo": "#77b7c8"
+        }
+      ]
+    },
+    "news": {
+      "kicker": "Information Disclosure",
+      "title": "News and Resources",
+      "lead": "News and resources publish company updates, project progress, product materials, testing information and cooperation resources.",
+      "linkLabel": "View All",
+      "items": [
+        {
+          "title": "Seven Product Categories Displayed",
+          "date": "2026-06-16",
+          "description": "The product center presents calcium ammonium nitrate, monoammonium phosphate, diammonium phosphate, granular calcium superphosphate, calcium sulfate whisker, nano calcium sulfate and potassium fluorosilicate."
+        }
+      ]
+    }
+  },
+  "Pages": {
+    "about": {
+      "title": "About Zhongjia Huaqiang",
+      "lead": "The page presents corporate positioning, Qijiang foundation, product directions and technology accumulation.",
+      "image": {
+        "src": "/images/concepts/qijiang-base-planning-clean.webp",
+        "alt": "Qijiang mountain landscape and industrial base visual",
+        "caption": "Qijiang location and base image"
+      },
+      "sections": [
+        {
+          "title": "Corporate positioning",
+          "body": "The company is located in Panshi Village, Fuhuan Town, Qijiang District, Chongqing, and develops a platform for green chemicals and fertilizer products.",
+          "points": [
+            "Based in Qijiang",
+            "Chemical and fertilizer products",
+            "Technology accumulation"
+          ]
+        },
+        {
+          "title": "Product directions",
+          "body": "The product center presents seven products: calcium ammonium nitrate, monoammonium phosphate, diammonium phosphate, granular calcium superphosphate, calcium sulfate whisker, nano calcium sulfate and potassium fluorosilicate.",
+          "points": [
+            "Fertilizer products",
+            "Industrial phosphate",
+            "Calcium-based materials",
+            "Fluorosilicate product"
+          ]
+        }
+      ]
+    },
+    "products": {
+      "title": "Product Center",
+      "lead": "Product pages focus on seven product categories, package images, indicators and application directions.",
+      "gallery": {
+        "title": "Product Package Images",
+        "lead": "The seven products below cover fertilizer products, industrial phosphate, calcium-based materials and fluorosilicate products.",
+        "items": [
+          {
+            "src": "/images/products/real/calcium-ammonium-nitrate-can.webp",
+            "alt": "Calcium Ammonium Nitrate package",
+            "caption": "Calcium Ammonium Nitrate"
+          },
+          {
+            "src": "/images/products/real/monoammonium-phosphate-map.webp",
+            "alt": "Monoammonium Phosphate package",
+            "caption": "Monoammonium Phosphate"
+          },
+          {
+            "src": "/images/products/real/diammonium-phosphate-dap.webp",
+            "alt": "Diammonium Phosphate package",
+            "caption": "Diammonium Phosphate"
+          },
+          {
+            "src": "/images/products/real/granular-calcium-superphosphate.webp",
+            "alt": "Granular Calcium Superphosphate package",
+            "caption": "Granular Calcium Superphosphate"
+          },
+          {
+            "src": "/images/products/real/calcium-sulfate-whisker.webp",
+            "alt": "Calcium Sulfate Whisker package",
+            "caption": "Calcium Sulfate Whisker"
+          },
+          {
+            "src": "/images/products/real/nano-calcium-sulfate.webp",
+            "alt": "Nano Calcium Sulfate package",
+            "caption": "Nano Calcium Sulfate"
+          },
+          {
+            "src": "/images/products/seven/potassium-fluorosilicate-pack.webp",
+            "alt": "Potassium Fluorosilicate package",
+            "caption": "Potassium Fluorosilicate"
+          }
+        ]
+      },
+      "sections": [
+        {
+          "title": "Seven Product Catalog",
+          "body": "The product center presents seven product categories covering agricultural fertilizers, industrial phosphate, calcium-based materials and fluorosilicate products.",
+          "points": [
+            "Calcium ammonium nitrate",
+            "Monoammonium phosphate",
+            "Diammonium phosphate",
+            "Granular calcium superphosphate",
+            "Calcium sulfate whisker",
+            "Nano calcium sulfate",
+            "Potassium fluorosilicate"
+          ]
+        },
+        {
+          "title": "Fertilizers and Industrial Phosphate",
+          "body": "Calcium ammonium nitrate, diammonium phosphate and granular calcium superphosphate support agricultural fertilizer scenarios. Monoammonium phosphate supports industrial and related phosphate-chemical applications.",
+          "points": [
+            "Calcium ammonium nitrate: total N ≥15.0%, water-soluble Ca ≥18.0%",
+            "Monoammonium phosphate: total nutrients ≥73.0%",
+            "Diammonium phosphate: total nutrients ≥61.0%",
+            "Granular calcium superphosphate: available P ≥12.0%, water-soluble P ≥7.0%"
+          ]
+        },
+        {
+          "title": "Calcium-based and Fluorosilicate Products",
+          "body": "Calcium sulfate whisker and nano calcium sulfate support calcium-based material applications. Potassium fluorosilicate supports related industrial and agricultural scenarios.",
+          "points": [
+            "Calcium sulfate whisker: purity ≥98%, whiteness ≥98%, aspect ratio ≥30",
+            "Nano calcium sulfate: particle size <100nm",
+            "Potassium fluorosilicate: K₂SiF₆ content ≥98%"
+          ]
+        },
+        {
+          "title": "Product materials",
+          "body": "Product materials cover package specifications, standards, testing management, applicable industries, storage guidance and customer service."
+        }
+      ]
+    },
+    "industry": {
+      "title": "Industry and Base",
+      "lead": "This page presents Qijiang elements, industrial park support, industrial coordination and logistics conditions.",
+      "sections": [
+        {
+          "title": "Qijiang elements",
+          "body": "The base connects Chongqing location, Qijiang industrial conditions, industrial-park utilities and logistics links.",
+          "points": [
+            "Chongqing location",
+            "Qijiang industrial base",
+            "Park utilities",
+            "Logistics links"
+          ]
+        },
+        {
+          "title": "Industrial coordination",
+          "body": "The base supports product manufacturing, raw-material coordination, quality testing, storage, logistics and customer service."
+        }
+      ]
+    },
+    "quality": {
+      "title": "Technology and Quality",
+      "lead": "This page presents R&D accumulation, intellectual property, quality inspection, safety, environmental responsibility and resource utilization.",
+      "sections": [
+        {
+          "title": "Technology route",
+          "body": "The technology route covers nitric-acid-route phosphorus chemicals, nitrogen-phosphorus-calcium coordination, humic-acid compound fertilizers, calcium-based materials and fluorosilicate products.",
+          "points": [
+            "Nitric-acid-route phosphorus chemicals",
+            "Humic-acid compound fertilizers",
+            "Calcium-based materials",
+            "Fluorosilicate resource utilization"
+          ]
+        },
+        {
+          "title": "Public patent results",
+          "body": "Xie Guangqiang-related enterprises have accumulated technologies in fertilizer formulas, production methods, equipment and process control. Public patent information shows that patents related to Chongqing Huaqiang Ecological Fertilizer Co., Ltd. cover nitro-humic-acid compound fertilizer, raw-material feeding, automatic packaging, finished-product treatment, hot-air pretreatment and exhaust-gas water circulation.",
+          "points": [
+            "High-activity nitro-humic-acid compound fertilizer and preparation method",
+            "Nitro-humic-acid compound fertilizer and preparation method",
+            "Raw-material feeding control system",
+            "Automatic compound-fertilizer packaging device",
+            "Packaging-device control system",
+            "Finished-product drying and treatment system",
+            "Exhaust-gas water-circulation treatment system",
+            "Hot-air pretreatment device for drying compound-fertilizer granules"
+          ]
+        },
+        {
+          "title": "Safety and environment",
+          "body": "Safety and environmental management covers chemical units, fire prevention, explosion protection, wastewater and exhaust treatment, solid-waste utilization and emergency response."
+        }
+      ]
+    },
+    "news": {
+      "title": "News and Resources",
+      "lead": "This section is used for corporate news, project updates, product manuals and public resources.",
+      "sections": [
+        {
+          "title": "Company updates",
+          "body": "The section publishes company news, product resources, technology and quality information, project progress and cooperation materials.",
+          "points": [
+            "Corporate news",
+            "Project updates",
+            "Seven product resources",
+            "Downloads"
+          ]
+        }
+      ]
+    },
+    "contact": {
+      "title": "Contact Us",
+      "lead": "Government bodies, customers, distributors, suppliers, engineering service providers and project partners are welcome to contact Zhongjia Huaqiang.",
+      "sections": [
+        {
+          "title": "Company address",
+          "body": "Panshi Village, Fuhuan Town, Qijiang District, Chongqing"
+        },
+        {
+          "title": "Cooperation inquiries",
+          "body": "Phone: +86 19923490719",
+          "points": [
+            "Product inquiry",
+            "Channel cooperation",
+            "Supply-chain cooperation",
+            "Project documentation"
+          ]
+        },
+        {
+          "title": "Cooperation directions",
+          "body": "Inquiries may cover fertilizer products, industrial materials, calcium-based materials, potash and new-energy material directions, product documents, project cooperation and site visits."
+        }
+      ]
+    }
+  }
+}

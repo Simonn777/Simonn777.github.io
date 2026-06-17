@@ -1,0 +1,11 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">中钾公司图标</title>
+  <desc id="desc">以中字符形、钾元素方向、叶形水流构成的中钾华强品牌图标。</desc>
+  <rect width="512" height="512" rx="72" fill="#0A5C78"/>
+  <path d="M72 364C142 331 208 324 270 346C327 366 379 362 440 323V390C379 425 317 433 252 411C190 390 130 397 72 431V364Z" fill="#16A66A"/>
+  <path d="M72 388C138 351 199 344 260 365C319 385 379 374 440 334" stroke="#D9F7F0" stroke-width="14" stroke-linecap="round"/>
+  <path d="M156 158H356V274H156V158Z" stroke="white" stroke-width="38" stroke-linejoin="round"/>
+  <path d="M256 96V346" stroke="white" stroke-width="42" stroke-linecap="round"/>
+  <path d="M294 210L389 118H336L268 185L294 210Z" fill="#78C8E6"/>
+  <path d="M304 239L400 333H344L268 263L304 239Z" fill="#78C8E6"/>
+</svg>
